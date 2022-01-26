@@ -15,6 +15,7 @@ namespace WebApplication1.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
+            // test
             _logger = logger;
         }
 
